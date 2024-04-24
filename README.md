@@ -2,6 +2,12 @@
 Ett projekt där vi ska göra en "Capture The Flag" uppgift där någon behöver "bryta" eller "hacka" din uppgift för att lösa den och få "flaggan"
 
 ## Planering
-Min uppgift kallar jag för Cookie Decrypter och den gör jag själv (Victor Håkonsen). 
-Uppgiften går ut på att hitta en gömd nyckel i hemsidan för att sedan decrypta den så att man kan logga in på hemsidan.
+### Uppgiften
+Cookie Decrypter
 
+### Medverkande
+Victor Håkonsen
+
+### Beskrivning
+Uppgiften går ut på att man ska hitta ett lösenord för att kunna logga in på hemsidan, lösenordet finns gömt på hemsidan och man måste använda basic Web Exploration för att komma åt den.
+Nyckeln i sig är encryptad med en mängd olika metoder som man behöver decoda för att få fram nyckeln. 
