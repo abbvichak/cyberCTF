@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel ="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Capture my flag?</title>
+</head>
+<body>
+    <h1 id="mainheader">Would you like to capture my flag?</h1>
+    
+    <p class="text">It's not very hard</p>
+
+    <iframe id="video" width="1120" height="630" src="https://www.youtube.com/embed/mEJ_jxFJU_0?autoplay=1"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <form action="action_page.php" method="post">
+    
+        <div class="container">
+          <label for="uname"><b>Username</b></label>
+          <input type="text" placeholder="Enter Username" name="username" required>
+      
+          <label for="psw"><b>Password</b></label>
+          <input type="password" placeholder="Enter Password" name="password" required>
+      
+          <button type="submit">Login</button>
+      </form>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jsSHA/2.0.2/sha.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
