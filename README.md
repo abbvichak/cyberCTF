@@ -17,3 +17,10 @@ För att lösa uppgiften ska man först och främst använda sig av webbläsaren
 
 #### Svårighetsnivå
 Svårighetsnivån beror på om man använder hintsen eller inte, utan hints skulle jag säga i princip 0 men med hints så kanske 0.7 eftersom man får hjälp med hur många decryptions vilka encryption methoder som används. 
+
+#### Flagga
+Flaggan som man får i slutet av uppgiften är 210S{c0ok1esaReG0Od}
+
+### Reflektion
+Eftersom jag missade hela planeringsperioden så har jag skrivit planeringen allt eftersom uppgiften blivit klar så uppgiften blev precis som jag planerat. 
+
