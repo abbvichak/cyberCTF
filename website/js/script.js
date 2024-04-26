@@ -12,7 +12,7 @@ form.addEventListener("submit", (e)=>{
     const authenticated = authentication(username,password)
 
     if(authenticated){
-        alert("Correct")
+        alert("Correct, the flag is 210S{c0ok1esaReG0Od}")
     } else {
         alert("Wrong")
     }
